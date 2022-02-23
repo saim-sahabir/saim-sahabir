@@ -1,11 +1,18 @@
 ### Hi there 👋
+### Assalamu Alaikum
+- I'm saim sahabir 
+- Upcoming Software Engineer
+- 🌱 I’m currently learning ... Asp.Net Core MVC C#
+- 🔭 I’m currently Intership on  (Dev Skill)  ... ![image](https://user-images.githubusercontent.com/87026727/155270049-8dcac2da-edaa-4fe9-b6f6-f7fe26a5196c.png)
+
 
 <!--
 **saim-sahabir/saim-sahabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
