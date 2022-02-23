@@ -3,7 +3,7 @@
 - I'm saim sahabir 
 - Upcoming Software Engineer
 - 🌱 I’m currently learning ... Asp.Net Core MVC C#
-- 🔭 I’m currently Intership on  (Dev Skill)  ... ![image](https://user-images.githubusercontent.com/87026727/155270049-8dcac2da-edaa-4fe9-b6f6-f7fe26a5196c.png)
+- 🔭 I’m currently Internship on  (Dev Skill)  ... ![image](https://user-images.githubusercontent.com/87026727/155271700-ca3ad670-2235-46e0-ae3b-55e511986267.png)
 
 
 <!--
