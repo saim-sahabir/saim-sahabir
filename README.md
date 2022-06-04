@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Assalamu Alaikum
 - I'm saim sahabir 
-- Upcoming Software Engineer
+- Software Developer
 - 🌱 I’m currently learning ... Asp.Net Core MVC C#
 - 🔭 I’m currently Internship on  (Dev Skill)  ... ![image](https://user-images.githubusercontent.com/87026727/155271700-ca3ad670-2235-46e0-ae3b-55e511986267.png)
 
